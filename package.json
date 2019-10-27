@@ -1,7 +1,7 @@
 {
   "name": "recipe-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api for managing recipes (written with nodeJS",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
