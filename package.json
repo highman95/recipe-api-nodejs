@@ -1,0 +1,25 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highman95/recipe-api-nodejs.git"
+  },
+  "keywords": [
+    "recipe",
+    "nodejs",
+    "api"
+  ],
+  "author": "Emmanuel NWAMAIFE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highman95/recipe-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/highman95/recipe-api-nodejs#readme"
+}
